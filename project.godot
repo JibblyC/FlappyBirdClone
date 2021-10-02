@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="FappyBirdClone"
-run/main_scene="res://BackGround.tscn"
+run/main_scene="res://scenes/BackGround.tscn"
 config/icon="res://icon.png"
 
 [display]
